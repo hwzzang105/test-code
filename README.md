@@ -41,7 +41,7 @@ git init
 
 16. 작업한 내용의 메시지를 기록 git commit -m "커밋할 메시지 입력(작업내용)"
 
-17. 원격 저장소 지정 git remote add origin 해당 레포시토리 주소 (https://github.com/frozenxnow/test-code.git)
+17. 원격 저장소 지정 git remote add origin 해당 레포시토리 주소 (https://github.com/hwzzang105/test-code.git)
 
 18. 원격 저장소에 업로드 git ouosh -u origin master
 
